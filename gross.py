@@ -1,0 +1,6 @@
+pay=input("Enter pay:")
+rate=input("Enter rate:")
+pay=float(pay)
+rate=float(rate)
+print(round(pay*rate),0)
+print("abc")
